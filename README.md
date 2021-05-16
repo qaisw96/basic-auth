@@ -1,8 +1,8 @@
 # basic-auth
 
 ## HEROKU URL : https://qais-basic-api-server.herokuapp.com/
-## PR : https://code04-api-server.herokuapp.com/
-## ACTION : https://github.com/qaisw96/api-server/actions
+## PR : https://github.com/qaisw96/basic-auth/tree/dev
+## ACTION : https://basic-authar.herokuapp.com/
 
 
 ## UML DIAGRAM : 
